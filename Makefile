@@ -1,6 +1,6 @@
 build:
-	gcc -o tema3 *.c -g -Wall -Wextra
+	gcc -o linuxFileSystem *.c -g -Wall -Wextra
 run:
-	./tema3
+	./linuxFileSystem
 clean:
-	rm -rf tema3
+	rm -rf linuxFileSystem
