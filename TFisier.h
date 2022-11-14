@@ -1,5 +1,3 @@
-/* Sbarnea Cristian-Stefan 314CB */
-
 #ifndef T_FISIER_
 #define T_FISIER_
 #include "TDirector.h"

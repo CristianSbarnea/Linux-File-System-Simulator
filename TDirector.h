@@ -1,5 +1,3 @@
-/* Sbarnea Cristian-Stefan 314CB */
-
 #include "TFisier.h"
 #ifndef T_DIRECTOR_
 #define T_DIRECTOR_

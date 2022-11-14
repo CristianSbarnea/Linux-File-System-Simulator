@@ -1,5 +1,3 @@
-/* Sbarnea Cristian-Stefan 314CB */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
